@@ -1,0 +1,609 @@
+[
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20240707",
+        "url": " http://www.cubadebate.cu/noticias/2024/10/07/union-electrica-pronostica-deficit-de-1150-mw-para-el-horario-pico-nocturno-2/ ", 
+        "prediction": {
+            "availability": "2220",  
+            "demand_max": "3300",
+            "impact": "1150",
+            "deficit": "1080",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "2140", 
+            "demand": "2450", 
+            "deficit": "380" 
+        }, 
+        "plants": [
+            {
+                "broken": {
+                    "MG": [5, 8],
+                    "LR": [2]               
+                },
+                "maintenance": {
+                    "EG": [2],
+                    "AM": [5]
+                },
+                "limitation": "383"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "43",
+            "total_impact": "344",
+            "combustible_problem": "274",
+            "snips_with_problems": "1",
+            "motors_impact": "70"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1349",
+            "max_hour": "1810"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241008",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/08/union-electrica-se-pronostica-una-afectacion-de-1155-mw-en-el-pico-nocturno-de-martes/", 
+        "prediction": {
+            "availability": "2265",  
+            "demand_max": "3350",
+            "impact": "1155",
+            "deficit": "1085",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "2100", 
+            "demand": "2565", 
+            "deficit": "500" 
+        }, 
+        "plants": [
+            {
+                "broken": {
+                    "MG": [5, 8],
+                    "LR": [2]
+                },
+                "maintenance": {
+                    "EG": [2],
+                    "AM": [5]
+                },
+                "limitation": "553"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "38",
+            "total_impact": "265",
+            "combustible_problem": "170",
+            "snips_with_problems": "1",
+            "motors_impact": "95"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1363",
+            "max_hour": "2020"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241009",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/09/union-electrica-pronostica-afectacion-de-1140-mw-en-el-horario-pico-nocturno/", 
+        "prediction": {
+            "availability": "2280",  
+            "demand_max": "3350",
+            "impact": "1140",
+            "deficit": "1070",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "2280", 
+            "demand": "2450", 
+            "deficit": "203" 
+        }, 
+        "plants": [
+            {
+                "broken": {
+                    "MG": [8],
+                    "LR": [2]
+                },
+                "maintenance": {
+                    "AM": [5],
+                    "EG": [2]
+                },
+                "limitation": "550"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "35",
+            "total_impact": "187",
+            "combustible_problem": null,
+            "snips_with_problems": null,
+            "motors_impact": null
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1140",
+            "max_hour": "2000"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241010",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/10/la-union-electrica-pronostica-una-afectacion-de-1235-mw-en-el-pico-nocturno-de-este-jueves/", 
+        "prediction": {
+            "availability": "2185",  
+            "demand_max": "3350",
+            "impact": "1235",
+            "deficit": "1165",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "2094", 
+            "demand": "2400", 
+            "deficit": "320" 
+        }, 
+        "plants": [
+            {
+                "broken": {
+                    "LR": [2]
+                },
+                "maintenance": {
+                    "AM": [5],
+                    "EG": [2]
+                },
+                "limitation": "586"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "37",
+            "total_impact": "370",
+            "combustible_problem": "229",
+            "snips_with_problems": "2",
+            "motors_impact": "141"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1269",
+            "max_hour": "1940"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241011",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/11/union-electrica-pronostica-una-afectacion-de-1245-mw-en-el-pico-nocturno-de-este-viernes/", 
+        "prediction": {
+            "availability": "2175",  
+            "demand_max": "3350",
+            "impact": "1245",
+            "deficit": "1175",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "1910", 
+            "demand": "2520", 
+            "deficit": "713" 
+        }, 
+        "plants": [
+            {
+                "broken": {
+                    "MG": [8],
+                    "LR": [2]
+                },
+                "maintenance": {
+                    "EG": [2],
+                    "AM": [5]
+                },
+                "limitation": "604"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "43",
+            "total_impact": "550",
+            "combustible_problem": "293",
+            "snips_with_problems": "2",
+            "motors_impact": "257"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1153",
+            "max_hour": "1950"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241012",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/12/union-electrica-estima-afectacion-de-1-220-mw-en-horario-pico-este-sabado/", 
+        "prediction": {
+            "availability": "2240",  
+            "demand_max": "3400",
+            "impact": "1220",
+            "deficit": "1150",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "2250", 
+            "demand": "2260", 
+            "deficit": "81" 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                    "LR": [2]
+                },
+                "maintenance": {
+                    "EG": [2],
+                    "AM": [5]
+                },
+                "limitation": "635"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "44",
+            "total_impact": "350",
+            "combustible_problem": "258",
+            "snips_with_problems": "1",
+            "motors_impact": "92"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1467",
+            "max_hour": "1950"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241013",
+        "url": " http://www.cubadebate.cu/noticias/2024/10/13/union-electrica-estima-afectacion-de-1300-mw-en-pico-nocturno/", 
+        "prediction": {
+            "availability": "2070",  
+            "demand_max": "3300",
+            "impact": "1300",
+            "deficit": "1230",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "1900", 
+            "demand": "2580", 
+            "deficit": "660" 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                    "DO": [5],
+                    "LR": [2]
+                },
+                "maintenance": {
+                    "AM": [5],
+                    "EG": [2]
+                },
+                "limitation": "540"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "46",
+            "total_impact": "558",
+            "combustible_problem": "350",
+            "snips_with_problems": "2",
+            "motors_impact": "208"
+        },
+        "impact": {
+            "total_hours": null,
+            "max": "1278",
+            "max_hour": "1930"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241014",
+        "url": " http://www.cubadebate.cu/noticias/2024/10/14/afectacion-electrica-para-el-pico-nocturno-de-este-lunes-superara-los-1300-mw-informa-la-une/", 
+        "prediction": {
+            "availability": "2060",  
+            "demand_max": "3360",
+            "impact": "1370",
+            "deficit": "1300",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "1950", 
+            "demand": "2600", 
+            "deficit": "697" 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                    "EG": [3],
+                    "CM": [4],
+                    "DO": [5],
+                    "LR": [2],
+                    "AM": [3]
+                },
+                "maintenance": {
+                    "EG":[2],
+                    "AM":[5]
+                },
+                "limitation": "366"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "37",
+            "total_impact": "402",
+            "combustible_problem": "261",
+            "snips_with_problems": "2",
+            "motors_impact": "141"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1346",
+            "max_hour": "1810"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241015",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/15/une-se-pronostica-una-afectacion-de-1378-mw-en-el-horario-pico/", 
+        "prediction": {
+            "availability": "1992",  
+            "demand_max": "3330",
+            "impact": "1378",
+            "deficit": "1308",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "1830", 
+            "demand": "2560", 
+            "deficit": "765" 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                    "DO": [5],
+                    "LR": [2],
+                    "AM": [3]
+                },
+                "maintenance": {
+                    "EG": [2],
+                    "CM": [4],
+                    "AM" :[5]
+                },
+                "limitation": "419"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "43",
+            "total_impact": "606",
+            "combustible_problem": "262",
+            "snips_with_problems": "2",
+            "motors_impact": "344"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1358",
+            "max_hour": "1930"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241016",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/16/une-pronostica-una-afectacion-de-1445-mw-para-el-horario-pico-nocturno/", 
+        "prediction": {
+            "availability": "2005",  
+            "demand_max": "3380",
+            "impact": "1445",
+            "deficit": "1375",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "1780", 
+            "demand": "2660", 
+            "deficit": "908" 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                    "EG": [1],
+                    "DO": [5],
+                    "LR": [2],
+                    "AM": [3]
+                },
+                "maintenance": {
+                    "EG":[2],
+                    "CM":[4],
+                    "AM":[5]
+                },
+                "limitation": "407"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "37",
+            "total_impact": "464",
+            "combustible_problem": "222",
+            "snips_with_problems": "3",
+            "motors_impact": "242"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1641",
+            "max_hour": "1910"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241017",
+        "url": " http://www.cubadebate.cu/noticias/2024/10/17/une-preve-afectaciones-durante-horario-diurno-y-afectacion-de-1-678-mw-en-pico-nocturno-este-jueves/", 
+        "prediction": {
+            "availability": "1692",  
+            "demand_max": "3300",
+            "impact": "1678",
+            "deficit": "1608",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "1600", 
+            "demand": "2600", 
+            "deficit": "1072" 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                    "DO":[5],
+                    "LR": [2],
+                    "EV": [4],
+                    "AM": [3]
+                },
+                "maintenance": {
+                    "EG": [2],
+                    "CM": [4],
+                    "AM": [5]
+                },
+                "limitation": "441"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "50",
+            "total_impact": "799",
+            "combustible_problem": "325",
+            "snips_with_problems": "15",
+            "motors_impact": "474"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1589",
+            "max_hour": "1920"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241018",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/18/une-preve-una-afectacion-de-mas-de-1500-mw-para-este-viernes/", 
+        "prediction": {
+            "availability": "1705",  
+            "demand_max": "3200",
+            "impact": "1565",
+            "deficit": "1495",
+            "backup": null
+        },
+        "morning_info": {
+            "time": "0700", 
+            "availability": "1390", 
+            "demand": "2500", 
+            "deficit": "1138" 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                    "EG": [1],
+                    "LR": [2],
+                    "AM": [3, 6]
+                },
+                "maintenance": {
+                    "EG":[2],
+                    "CM": [4],
+                    "AM":[5]
+                },
+                "limitation": "439"
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": "54",
+            "total_impact": "909",
+            "combustible_problem": "335",
+            "snips_with_problems": "15",
+            "motors_impact": "474"
+        },
+        "impact": {
+            "total_hours": "24",
+            "max": "1642",
+            "max_hour": "1920"
+        }
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241019",
+        "url": "http://www.cubadebate.cu/noticias/2024/10/19/atencion-actualizacion-permanente-del-restablecimiento-del-sistema-electrico-nacional/", 
+        "prediction": {
+            "availability": null,  
+            "demand_max": null,
+            "impact": null,
+            "deficit": null,
+            "backup": null 
+        },
+        "morning_info": {
+            "time": null, 
+            "availability": null, 
+            "demand": null, 
+            "deficit": null 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                },
+                "maintenance": {
+                },
+                "limitation": null
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": null,
+            "total_impact": null,
+            "combustible_problem": null,
+            "snips_with_problems": null,
+            "motors_impact": null
+        },
+        "impact": {
+            "total_hours": null,
+            "max": null,
+            "max_hour": null
+        },
+        "nota": "De este día no hay datos por apagón general por colapso del Sistema Electroenérgetico Nacional. "
+    },
+    {
+        "zones_with_problems": ["west" , "middle", "east"], 
+        "date": "20241020",
+        "url": " http://www.cubadebate.cu/noticias/2024/10/20/cuba-actualizacion-permanente-sobre-el-restablecimiento-del-sistema-electrico/",
+        "prediction": {
+            "availability": null,  
+            "demand_max": null,
+            "impact": null,
+            "deficit": null,
+            "backup": null 
+        },
+        "morning_info": {
+            "time": null, 
+            "availability": null, 
+            "demand": null, 
+            "deficit": null 
+        }, 
+        "plants": [
+            {
+                "broken":{
+                },
+                "maintenance": {
+                },
+                "limitation": null
+        } 
+    ],
+        "distributed": {
+            "motors_with_problems": null,
+            "total_impact": null,
+            "combustible_problem": null,
+            "snips_with_problems": null,
+            "motors_impact": null
+        },
+        "impact": {
+            "total_hours": null,
+            "max": null,
+            "max_hour": null
+        },
+        "nota": "De este día no hay datos por apagón general por colapso del Sistema Electroenérgetico Nacional. "
+    }
+]
